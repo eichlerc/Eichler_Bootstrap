@@ -1,0 +1,65 @@
+body {
+  padding-top;
+}
+
+#galleryheader {
+  text-align: center;
+  font-size: 40px;
+  padding-top:20px;
+  padding-bottom:20px;
+  font-weight: bold;
+}
+
+.button {
+margin: auto 0;
+position: absolute;
+}
+
+h4 {
+  font-size:20px;
+  margin-left: 50px;
+  margin-right:50px;
+}
+
+.center {
+  text-align: center;
+}
+
+div.col-xs-12 {
+  display: block;
+}
+
+
+#description {
+  text-align: center;
+  margin-right: 100px;
+  margin-left:50px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-image: url('../img/philcarol2.jpg');
+  background-attachment: fixed;
+  /*background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;*/
+  color: white;
+  min-height:400px;
+  margin-top:0px;
+  margin-bottom:8px;
+}
+.glyphicon {
+      font-size: 20px;
+      display: block;
+  }
+
+
+.col-md-4 {
+  width:50%;
+  height:20%;
+  margin: 0 auto;
+
+}
